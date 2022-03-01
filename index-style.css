@@ -34,7 +34,7 @@ header {
 }
 
 #mobileNavigation {
-    background: url(images/mobile-menu.png) no-repeat 0 0;
+    background: url(images/mobile-menu.png) no-repeat;
 }
 
 .mobile-nav {
